@@ -1,0 +1,25 @@
+{
+  "name": "ts-mxgraph-typings",
+  "description": "Typescript Type Definitions / Typings for https://github.com/jgraph/mxgraph",
+  "keywords": [
+      "mxgraph",
+      "typescript"
+  ],
+  "version": "4.0.6-rc0",
+  "bugs": "https://github.com/rabpeter/ts-mxgraph-typings/issues",
+  "license": "MIT",
+  "author": "Rabpeter <de.nimitz@yandex.com>",
+  "repository": "rabpeter/ts-mxgraph-factory",
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "rabpeter",
+      "url": "https://github.com/rabpeter"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "main": "",
+  "scripts": {},
+  "typeScriptVersion": "2.0"
+}
