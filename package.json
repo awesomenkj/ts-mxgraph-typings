@@ -6,15 +6,15 @@
       "typescript"
   ],
   "version": "4.0.6-rc0",
-  "bugs": "https://github.com/rabpeter/ts-mxgraph-typings/issues",
+  "bugs": "https://github.com/awesomenkj/ts-mxgraph-typings/issues",
   "license": "MIT",
-  "author": "Rabpeter <de.nimitz@yandex.com>",
-  "repository": "rabpeter/ts-mxgraph-factory",
+  "author": "awesomenkj <de.nimitz@yandex.com>",
+  "repository": "awesomenkj/ts-mxgraph-factory",
   "bundleDependencies": false,
   "contributors": [
     {
-      "name": "rabpeter",
-      "url": "https://github.com/rabpeter"
+      "name": "awesomenkj",
+      "url": "https://github.com/awesomenkj"
     }
   ],
   "dependencies": {},
